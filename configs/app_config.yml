@@ -1,0 +1,2 @@
+directories:
+  sqldb_directory: mysql+pymysql://root:@localhost/mrlearning
